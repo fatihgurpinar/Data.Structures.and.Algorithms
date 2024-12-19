@@ -1,0 +1,14 @@
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/bin/Debug/net8.0/BubbleSort
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/bin/Debug/net8.0/BubbleSort.deps.json
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/bin/Debug/net8.0/BubbleSort.runtimeconfig.json
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/bin/Debug/net8.0/BubbleSort.dll
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/bin/Debug/net8.0/BubbleSort.pdb
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.AssemblyInfoInputs.cache
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.AssemblyInfo.cs
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.csproj.CoreCompileInputs.cache
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.dll
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/obj/Debug/net8.0/refint/BubbleSort.dll
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.pdb
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/obj/Debug/net8.0/BubbleSort.genruntimeconfig.cache
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/BubbleSort/obj/Debug/net8.0/ref/BubbleSort.dll

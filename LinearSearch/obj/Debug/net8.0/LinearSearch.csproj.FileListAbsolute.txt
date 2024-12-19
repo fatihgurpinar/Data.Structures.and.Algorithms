@@ -1,0 +1,14 @@
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/bin/Debug/net8.0/LinearSearch
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/bin/Debug/net8.0/LinearSearch.deps.json
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/bin/Debug/net8.0/LinearSearch.runtimeconfig.json
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/bin/Debug/net8.0/LinearSearch.dll
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/bin/Debug/net8.0/LinearSearch.pdb
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/obj/Debug/net8.0/LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/obj/Debug/net8.0/LinearSearch.AssemblyInfoInputs.cache
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/obj/Debug/net8.0/LinearSearch.AssemblyInfo.cs
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/obj/Debug/net8.0/LinearSearch.csproj.CoreCompileInputs.cache
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/obj/Debug/net8.0/LinearSearch.dll
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/obj/Debug/net8.0/refint/LinearSearch.dll
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/obj/Debug/net8.0/LinearSearch.pdb
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/obj/Debug/net8.0/LinearSearch.genruntimeconfig.cache
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/LinearSearch/obj/Debug/net8.0/ref/LinearSearch.dll

@@ -1,0 +1,14 @@
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/bin/Debug/net8.0/Data.Structures.and.Algorithms
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/bin/Debug/net8.0/Data.Structures.and.Algorithms.deps.json
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/bin/Debug/net8.0/Data.Structures.and.Algorithms.runtimeconfig.json
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/bin/Debug/net8.0/Data.Structures.and.Algorithms.dll
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/bin/Debug/net8.0/Data.Structures.and.Algorithms.pdb
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/obj/Debug/net8.0/Data.Structures.and.Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/obj/Debug/net8.0/Data.Structures.and.Algorithms.AssemblyInfoInputs.cache
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/obj/Debug/net8.0/Data.Structures.and.Algorithms.AssemblyInfo.cs
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/obj/Debug/net8.0/Data.Structures.and.Algorithms.csproj.CoreCompileInputs.cache
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/obj/Debug/net8.0/Data.Structures.and.Algorithms.dll
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/obj/Debug/net8.0/refint/Data.Structures.and.Algorithms.dll
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/obj/Debug/net8.0/Data.Structures.and.Algorithms.pdb
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/obj/Debug/net8.0/Data.Structures.and.Algorithms.genruntimeconfig.cache
+/Users/fatihgurpinar/Github/Data.Structures.and.Algorithms/Data.Structures.and.Algorithms/obj/Debug/net8.0/ref/Data.Structures.and.Algorithms.dll
